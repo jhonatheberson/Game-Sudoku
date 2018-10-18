@@ -21,22 +21,11 @@ need to have installed QT IDE.
 open QT project (.pro file)
 ```
 
-
-
-
-
-
-
-
-## teste
-nmn
 ## Deployment
 
 to run this game just open the project in the QT IDE.
 
 ## Built With
-
-
 
 
 ## Contributing
