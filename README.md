@@ -34,6 +34,7 @@ Please read [CONTRIBUTING.md](https://github.com/jhonatheberson/Estoque-de-loja/
 
 ## Versioning
 
+We use [git](https://git-scm.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jhonatheberson/Game-Sudoku/tags).
 
 ## Authors
 
