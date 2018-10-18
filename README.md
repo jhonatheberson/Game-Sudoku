@@ -34,7 +34,6 @@ Please read [CONTRIBUTING.md](https://github.com/jhonatheberson/Estoque-de-loja/
 
 ## Versioning
 
-We use [apache](https://www.apache.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
